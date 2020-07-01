@@ -25,3 +25,4 @@ wget https://raw.githubusercontent.com/gieljnssns/Social-media-Blocklists/master
 wget https://raw.githubusercontent.com/justdomains/blocklists/master/lists/easylist-justdomains.txt
 wget https://raw.githubusercontent.com/justdomains/blocklists/master/lists/easyprivacy-justdomains.txt
 wget https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Germany.txt
+cat *.txt > combined.txt
